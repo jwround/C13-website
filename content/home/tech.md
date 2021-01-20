@@ -38,7 +38,7 @@ cta_alt:
 ---
 <h1> Unparalleled <br> Uncompromised </h1>
 
-We use biotechnology to create sustainable and high-performance skincare product that work for you and the planet.
+We use biotechnology to create safe, sustainable, and effective skincare products that work for you and the planet.
 
 <b><i>No longer sacrifice performance for sustainability<br></i></b>
 
