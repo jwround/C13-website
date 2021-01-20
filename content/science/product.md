@@ -23,10 +23,10 @@ design:
 hero_media:
 
 cta:
-  url: "#contact"
-  label: "Contact us for product specifications"
+  url: "/shop"
+  label: "SHOP POWERFULLY PROTECTIVE SKINCARE"
   icon_pack: "fas"
-  icon: "file-alt"
+  icon: "shopping-bag"
 ---
 <h3>The stratum corneum is your skin's first line of defense</h3>
 
@@ -48,6 +48,7 @@ Our exclusive technology creates unique natural defense factors that mimic those
 
 Our products combine our unique natural defense factors with natural moisturizing factors and a healthy dose of ceramides and intercellular lipids to create powerful products that deliver moisture, structure, and protection to your skin.
 
+<br>
 
 
 
