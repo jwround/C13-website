@@ -2,40 +2,39 @@
 advanced:
   css_style: ""
   css_class: ""
-widget: tech-tech
+widget: tech-tech2
 active: true
 filename: img/about.png
 subtitle: "
 
-<b>*Better materials through biology*</b>
-<br>
+<h3>Palm-oil in the beauty industry</h3>
 
 
-Microbial activities establish the foundation for life on our planet. Tapping into this potential, we can create sustainable bio-based materials that preform better for both us and our planet.
+
+70% of all beauty products contain palm-oil, and every year, the industry consumes more then 1.5 million tonnes. This requires half a million hectares of rainforest be used as palm plantations, which carries a devastating environmental and social toll. And this problem is not going away, palm-oil consumption keeps growing.
+
 
 
 
 "
-title: "Our technology"
+title: "Better products through biotechnology"
 weight: 20
 headless: true
 design:
   columns: "2"
   background:
     text_color_light: false
-    color: rgb(247, 247, 247)
+    color: rgb(255, 255, 255)
   spacing:
     padding:
       - 25px
       - "0"
       - 50px
       - "0"
-hero_media: rhodococcus.png
+hero_media: 1percent.png
 
 ---
 
-***New technologies are helping to solve global problems***
+<h3>Helping to solve a global problem</h3>
 
-Our world relies on lipid-based chemicals, we use them in our cosmetics, lubricants, foods, and fuels. But as demands for these products grow, so does the environmental and societal burden associated with palm oil from which most are derived. Rising consumer awareness is challenging industries to reduce their dependence on palm oil, but current technologies are struggling to provide alternatives.
-
-RhYme is harnessing the power of *Rhodococcus*, a naturally occurring soil bacterium, to create high-value lipid-based molecules. By applying advances in DNA technology and biological engineering, we are developing a technology that converts sustainable sugars into products that not only reduce our dependence on palm oil, but also bring preformance benefits.
+We promise that our products will never contain palm-oil. <br><br> Where we can, we will use our technology to help to reduce palm-oil usage in the beauty industry. Where we can't help, our 1% pledge will help to combat the damage that has already been done.

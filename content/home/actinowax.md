@@ -25,7 +25,7 @@ design:
       - "0"
       - 50px
       - "0"
-hero_media: "C13-cream-box.png"
+hero_media: "C13-cream-box2.png"
 cta:
   url: "/science"
   label: "Learn more"
@@ -34,10 +34,12 @@ cta:
 ---
 
 ***Powerful natural protection***<br>
-***So why settle for anything less?***
+***Why settle for anything less?***
 
 
+Your skin protects itself using natural defense factors, but produces less of these important molecules as it ages. <br>
 
-Actinowax™ is produced by the industrial fermentation of sustainable sugars. By replacing ingredients derived from palm oil with sustainable and ethical alternatives, we can reduce the environmental impact of cosmetic products. 
+<i>Give your skin back what it needs</i>
+
 
 <br>

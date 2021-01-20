@@ -33,13 +33,13 @@ cta:
 
 cta_alt:
   url: "/the-palm-oil-problem"
-  label: "<i>#palmfree</i>"
+  label: "<i>#palmoilfree</i>"
 
 ---
-### <center>Unparalleled and uncompromising</center>
+<h1> Unparalleled <br> Uncompromised </h1>
 
-Rhyme Biotechnology is developing technologies to deliver sustainable and high-performance ingredients for premium cosmetics
+We use biotechnology to create sustainable and high-performance skincare product that work for you and the planet.
 
-<center><b><i>No longer sacrifice performance for sustainability<br></i></b></center>
+<b><i>No longer sacrifice performance for sustainability<br></i></b>
 
 <br>

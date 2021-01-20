@@ -6,7 +6,7 @@ widget: sustain
 active: true
 filename: img/about.png
 subtitle: "<h3>Always responsible</h3>"
-title: ""
+title: "Together we can make a difference"
 weight: 10
 headless: true
 design:
@@ -29,6 +29,6 @@ hero_media: "C13-sustain.png"
 
 
 ---
-We believe that beauty products should work for you and the planet, so we made sure this is reflected in our products: </i>
+We believe that beauty products should work for you and the planet. We made sure this is reflected on both inside and outside our products: </i>
 
 <br>
