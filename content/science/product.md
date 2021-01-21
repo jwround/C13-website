@@ -28,19 +28,19 @@ cta:
   icon_pack: "fas"
   icon: "shopping-bag"
 ---
-<h3>The stratum corneum is your skin's first line of defense</h3>
+<h3>Your skin’s first line of defense is a layer called the stratum corneum</h3>
 
 This protective barrier is composed of three parts:
 
 <ul>
   <li>Natural moisturizing factors</li>
-  <li>Intercellular lipid</li>
+  <li>Intercellular lipids</li>
   <li>Natural protective factors</li>
 </ul>
 
-Your skin need all three of these to be balanced in order to protect you, but most skincare products only focus on the first two, leaving your skin open to damage and disrepair.
+Your skin needs all three of these to be balanced in order to protect you, but most skincare products only focus on the first two, leaving your skin open to damage and disrepair.
 
-<h3>Providing compete protection</h3>
+<h3>Providing complete protection</h3>
 
 
 Our exclusive technology creates unique natural defense factors that mimic those normally found on healthy skin. This is important because our skin produces 25% less of these protective molecules for every decade we age! But by replenishing them, we can promote lifelong healthy skin that is able to fully protect you.

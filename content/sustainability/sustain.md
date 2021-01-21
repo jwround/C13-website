@@ -29,6 +29,6 @@ hero_media: "C13-sustain.png"
 
 
 ---
-We believe that beauty products should work for you and the planet. We made sure this is reflected on both inside and outside our products: </i>
+We believe that beauty products should work for you and the planet. <br>So we made sure this is reflected on both inside and outside our products: 
 
 <br>

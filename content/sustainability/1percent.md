@@ -29,4 +29,4 @@ hero_media: ""
 
 
 ---
-We will pledge to give back, so that we can be a force of positive change on world around us.
+We will pledge to give back, so that we can be a force of positive change on the world around us.

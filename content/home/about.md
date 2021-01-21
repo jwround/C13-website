@@ -35,9 +35,9 @@ cta:
   icon: "shopping-bag"
 
 ---
-<h1>Built with science<br> Built for you</h1>
+<h1>Built with science</h1><h1>Built for you</h1>
 <br>
 Made with exclusive biotechnology.
 <br>
-<h5>#naturaldefensefactors<br>#alwaysresponsible</h5>
+<h5>#naturaldefense<br>#alwaysresponsible</h5>
 <br><br>
